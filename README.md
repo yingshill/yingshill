@@ -1,21 +1,13 @@
   # Hey there! 👋 I'm Yingshi Liu
                                                                                                                              
-  **AI Engineer | Data Systems | Job Search Automation**                                                                     
+  **AI Engineer | Workflow Automation | Trust and Safty Operation **                                                                     
                                                                                                                              
   Welcome to my GitHub! I build systems that combine AI, data pipelines, and automation to solve real problems. Currently    
   exploring opportunities in AI/ML and data engineering.
                                                                                                                              
   ---             
 
-  ## 🚀 Featured Projects
-
-  ### **[build_profile](https://github.com/yingshill/build_profile)** — Interactive AI-Powered CV                            
-  Interactive portfolio with dual-mode AI chatbot (text + voice), agentic RAG, 71 automated evals, and LLMOps observability.
-  - **[Live Demo](https://elenaliu.io)** | React 19 • TypeScript • Claude API                                                
-                  
-  ### **[career-ops](https://github.com/yingshill/career-ops)** — Multi-Agent Job Search                                     
-  AI command center for job search automation. 740+ listings evaluated, 100+ personalized CVs generated.
-  - Claude Code • Go • JavaScript • Playwright                                                                               
+  ## 🚀 Featured Projects                                       
    
   ### **[podcast-pipeline](https://github.com/yingshill/podcast-pipeline)** — Podcast Data Pipeline                          
   Transform podcast URLs into structured Notion knowledge bases with phrase extraction and synthesis.
