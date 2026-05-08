@@ -1,16 +1,58 @@
-## Hi there 👋
+  # Hey there! 👋 I'm Yingshi Liu
+                                                                                                                             
+  **AI Engineer | Data Systems | Job Search Automation**                                                                     
+                                                                                                                             
+  Welcome to my GitHub! I build systems that combine AI, data pipelines, and automation to solve real problems. Currently    
+  exploring opportunities in AI/ML and data engineering.
+                                                                                                                             
+  ---             
 
-<!--
-**yingshill/yingshill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  ## 🚀 Featured Projects
 
-Here are some ideas to get you started:
+  ### **[build_profile](https://github.com/yingshill/build_profile)** — Interactive AI-Powered CV                            
+  Interactive portfolio with dual-mode AI chatbot (text + voice), agentic RAG, 71 automated evals, and LLMOps observability.
+  - **[Live Demo](https://elenaliu.io)** | React 19 • TypeScript • Claude API                                                
+                  
+  ### **[career-ops](https://github.com/yingshill/career-ops)** — Multi-Agent Job Search                                     
+  AI command center for job search automation. 740+ listings evaluated, 100+ personalized CVs generated.
+  - Claude Code • Go • JavaScript • Playwright                                                                               
+   
+  ### **[podcast-pipeline](https://github.com/yingshill/podcast-pipeline)** — Podcast Data Pipeline                          
+  Transform podcast URLs into structured Notion knowledge bases with phrase extraction and synthesis.
+  - **[Live Demo](https://walnut-cobra-1eb.notion.site/1fb8d50a4fb548389761be7371729bea)** | Python • Notion API             
+   
+  ### **[ytm-music-platform](https://github.com/yingshill/ytm-music-platform)** — YouTube Music ML Pipeline                  
+  Personal music platform with ML-powered analysis and recommendations.
+  - Python • YouTube API • ML Pipeline                                                                                       
+                  
+  ### **[risk-governance-ads-portfolio](https://github.com/yingshill/risk-governance-ads-portfolio)** — Governance Framework 
+  Production governance portfolio with policy design, SOPs, playbooks, and audit methodology.
+                                                                                                                             
+  ### **[ai-governance-red-team-control-pipeline](https://github.com/yingshill/ai-governance-red-team-control-pipeline)** —  
+  AI Safety Testing
+  Red team simulation and governance control pipeline for AI safety evaluation.                                              
+                  
+  ---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ## 🔧 Tech Stack
+
+  **Languages:** Python • TypeScript • JavaScript • Go
+  **AI/ML:** Claude API • LLMs • RAG • Prompt Engineering
+  **Data:** Notion API • SQL • ETL • Data Pipelines                                                                          
+  **Frontend:** React • Tailwind • Vite
+  **DevOps:** Vercel • GitHub Actions • Supabase                                                                             
+                  
+  ---
+
+  ## 📫 Connect With Me                                                                                                      
+   
+  - **Portfolio:** [elenaliu.io](https://elenaliu.io)                                                                        
+  - **Twitter:** [@mochicat_v](https://twitter.com/mochicat_v)
+  - **Email:** yingshiliu.j@gmail.com
+  - **Location:** San Francisco, CA                                                                                          
+   
+  ---                                                                                                                        
+                  
+  <p align="center">
+    <i>Always learning, always building 🚀</i>
+  </p>
